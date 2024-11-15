@@ -1,4 +1,3 @@
-mod tensor;
-mod loss;
 mod activation;
-
+mod loss;
+pub mod tensor;
